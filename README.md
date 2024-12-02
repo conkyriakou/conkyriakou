@@ -10,7 +10,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 ---
 
 ## Skills 🚀
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conkyriakou)](https://github.com/anuraghazra/github-readme-stats)
 ### **Programming Languages, Libraries & Frameworks 🖥️**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
