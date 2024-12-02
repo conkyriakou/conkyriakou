@@ -1,12 +1,12 @@
 # Konstantina Kyriakou-Applied informatics student
-
-###Hi there! 👋 I'm Konstantina Kyriakou
+### Hi there! 👋 I'm Konstantina Kyriakou
 
 I'm a computer science student passionate about exploring the endless possibilities of technology. Currently, I'm studying at the University of Macedonia, focusing on analytics and web developing. My goal is to leverage technology to solve real-world problems and innovate in the tech industry.
 
-🌱 I’m currently working on various interesting projects.
-🔭 I’m excited to share my projects with the community.
-📫 Reach me: kyriakoucon@gmail.com or connect on LinkedIn.
+- 🌱 I’m currently working on various interesting projects.
+- 🔭 I’m excited to share my projects with the community.
+- 📫 Reach me: kyriakoucon@gmail.com or connect on LinkedIn.
+
 ---
 
 ## Skills 🚀
