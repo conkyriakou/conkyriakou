@@ -29,7 +29,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" style="width: 40%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=conkyriakou" style="width: 51%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=conkyriakou&show_icons=true" style="width: 51%;">
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conkyriakou![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true))](https://github.com/conkyriakou/github-readme-stats)
 </div>
 
