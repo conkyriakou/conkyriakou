@@ -26,9 +26,9 @@ I'm a computer science student passionate about exploring the endless possibilit
   <img src="https://img.shields.io/badge/-UML-8CA1AF?style=flat-square&logo=uml&logoColor=white" alt="UML" />
   <img src="https://img.shields.io/badge/-BPMN-FFCC00?style=flat-square&logo=gnu-bash&logoColor=black" alt="BPMN" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conkyriakou)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conkyriakou" style="width: 40%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conkyriakou&layout=compact" style="width: 40%;">
     <img src="https://github-readme-stats.vercel.app/api?username=conkyriakou&show_icons=true" style="width: 51%;">
    
 </div>
