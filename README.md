@@ -13,34 +13,28 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ### **Programming Languages, Libraries & Frameworks 🖥️**
 <p align="left">
+  <img src="https://img.shields.io/badge/-UML-8CA1AF?style=flat-square&logo=uml&logoColor=white" alt="UML" />
+  <img src="https://img.shields.io/badge/-BPMN-FFCC00?style=flat-square&logo=gnu-bash&logoColor=black" alt="BPMN" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/-UML-8CA1AF?style=flat-square&logo=uml&logoColor=white" alt="UML" />
-  <img src="https://img.shields.io/badge/-BPMN-FFCC00?style=flat-square&logo=gnu-bash&logoColor=black" alt="BPMN" />
+
 </p>
 
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conkyriakou&layout=compact" style="width: 40%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=conkyriakou&show_icons=true" style="width: 51%;">
-   
-</div>
 
 ---
 
 ### **Development Tools**
-- **IDEs**: VS Code, Visual Studio, Eclipse, CodeBlocks
+- **IDEs**: VS Code, Visual Studio, Eclipse, CodeBlocks, Android Studio, R studio
 - **Version Control**: Git
 
 ### **Data & Analytics**
-- **Data Visualization & BI**: Tableau, PowerBI
+- **Data Visualization & BI**: Tableau, PowerBI, Looker studio
 - **Data Science & Analysis**: RapidMiner, SageMath, Microsoft Excel
 - **Enterprise Systems**: SAP ERP, Salesforce CRM, HubSpot CRM
 
@@ -79,7 +73,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Degree**: Bachelor of Science in Applied Computer Science
 - **University**: University of Macedonia
 - **Expected Graduation**: 2026
-- **Relevant Coursework**: Data Structures, Algorithms, Database Systems, Software Engineering, Networks, OS and Architecture, Digital Marketing, System design and implementation, System security, HCI basics
+- **Relevant Coursework**: Business Analytics, Business process managment,Data Structures, Algorithms, Database Systems, Software Engineering, Networks, OS and Architecture, Digital Marketing, System design and implementation, System security, HCI basics, Advanced Information Systems.
 
 ---
 
@@ -87,7 +81,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 I'm passionate about technology and always open to new opportunities and collaborations. Feel free to reach out if you want to discuss project ideas, tech trends, or simply chat about coding.
 
-My repositories reflect my journey as a developer and system analyst, and I'm eager to learn from and contribute to the community. Let’s build something amazing together!
+My repositories reflect my journey as a system/business analyst and developer, and I'm eager to learn from and contribute to the community. Let’s build something amazing together!
 
 <!---
 conkyriakou/conkyriakou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
